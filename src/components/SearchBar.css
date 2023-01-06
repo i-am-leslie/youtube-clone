@@ -1,0 +1,12 @@
+.Searchbar{
+    border-radius: 20;
+    border: 1px solid  white;
+    padding-left: 200px;
+    box-shadow: none;
+    height: 20px;
+    justify-content:flex-start ;
+}
+.search::placeholder {
+   text-align: left;
+   
+  }
